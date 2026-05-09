@@ -1,0 +1,5 @@
+POSTGRES_SUPERUSER=postgres
+POSTGRES_SUPERUSER_PASSWORD=changeme
+APP_DB_USER=recipe_catalog_app
+APP_DB_PASSWORD=changeme
+OLLAMA_MODEL=llama3.1
